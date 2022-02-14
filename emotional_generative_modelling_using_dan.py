@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-"""Emotional_Generative_modelling_using_DAN.ipynb
 
 
 import numpy as np
